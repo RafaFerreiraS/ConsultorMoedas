@@ -1,10 +1,6 @@
 # ConsultorMoedas
 - App Pyhton, responsável por consultar a cotação de moedas disversas, consultando API docs.awesomeapi gratuita
 
-#requirements
-PySimpleGUI~=4.60.4
-requests~=2.28.2
-
 # consultor.py
 - Responspavel por gerenciar os eventos dos Layouts Principal e Help 
 - Eventos
@@ -39,3 +35,7 @@ Para executar, basta acessar o terminal do pychar e digitar: "python .\setup.py 
 - DLLs -> Contem as DLLs necessárias para executar o .exe (python3.dll e python310.dll)
 - Imagens -> Icone do form principal e do botão de Ajuda
 - TemaDefault -> Contem o arquivo de texto responsável por armazenar o Tema Padrão
+
+# requirements
+- PySimpleGUI~=4.60.4
+- requests~=2.28.2
